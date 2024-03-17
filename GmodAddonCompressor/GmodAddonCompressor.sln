@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmodAddonCompressor", "GmodAddonCompressor.csproj", "{D42A2C76-C380-4C8E-97A7-5C2998D0EA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		config|Any CPU = config|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42A2C76-C380-4C8E-97A7-5C2998D0EA71}.config|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42A2C76-C380-4C8E-97A7-5C2998D0EA71}.config|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5773A7F8-D562-42D6-9E1F-A9D240AF22D0}
+	EndGlobalSection
+EndGlobal
